@@ -38,8 +38,6 @@ fs.readdir('./input', function(err, files) {
 						}
 						questionList[quizId].push({"question":text,"id":id,"correctAnswer":correctAnswer});
 					});
-					//console.log(questionList);
-					
 					var webQuestion = "HP LaserJet Pro _____ MFPs feature ultra-fast single-pass, duplex scanning."
 					var correct = false;
 					Object.keys(questionList).forEach((course) => {
@@ -50,13 +48,7 @@ fs.readdir('./input', function(err, files) {
 							}
 						})
 					})
-					
-					
-					
-					
-					
-					//Output JSON
-					//fs.writeFileSync('./output/'+files[i-1], JSON.stringify(questionList));
+					fs.writeFileSync('./output/'+files[i-1], JSON.stringify(questionList));
 				}else{
 					console.log("File Is Not A SellPro JSON")
 				}
