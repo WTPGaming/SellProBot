@@ -6,17 +6,23 @@ A bot to automatically complete SellPro courses.
 
 ### Cloning This Repository
 
-#### Through the [Github](https://github.com/WTPGaming/SellProBot) website
+#### Using the [Github](https://github.com/WTPGaming/SellProBot) website
 
 Navigate to the [SellProBot](https://github.com/WTPGaming/SellProBot) repository on github
 
 ![Image of the SellProBot Github Page](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithub.PNG)
 
-Clone the repository by clicking on Code -> [Download Zip](https://github.com/WTPGaming/SellProBot/archive/master.zip)
+Clone the repository by clicking on Code, and then by clicking on [Download Zip](https://github.com/WTPGaming/SellProBot/archive/master.zip)
 
 |Click Code|Click Download Zip|Wait For Your File To Download|
 |---|---|---|
 |![Image of the SellProBot Github Page Clicking Code](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubCode.PNG)|![Image of the SellProBot Github Page Hovering On Download Zip](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubDownloadZip.PNG)|![Image of the SellProBot Github Page With Downloaded Zip](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubDownloadedZip.PNG)|
+
+#### Using Git
+
+```
+git clone https://github.com/WTPGaming/SellProBot.git
+```
 
 ### Installing Node.Js
 
