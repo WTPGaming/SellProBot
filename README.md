@@ -15,10 +15,10 @@ Plus its kinda funny because you'll almost be guaranteed to be the highest on le
 #### Using the [Github](https://github.com/WTPGaming/SellProBot) website
 
  - Navigate to the [SellProBot](https://github.com/WTPGaming/SellProBot) repository on Github.
-
-
-
- - Clone the repository by clicking on Code, and then by clicking on [Download Zip](https://github.com/WTPGaming/SellProBot/archive/master.zip).
+ - Click Code
+ - Click [Download Zip](https://github.com/WTPGaming/SellProBot/archive/master.zip) to download required files.
+ - Wait for the file to finish downloading
+ - Extract the files (platform specific)
 
 |Navigating to github|Clicking Code|Clicking Download Zip|Waiting For File Download|
 |---|---|---|---|
@@ -81,7 +81,12 @@ Usage of the SellProBot is done completely in the DOM or console or your browser
  - Navigate to the [SellPro](online.sellpro.net) website, and login using your credentials.
  - Open the DOM of your browser by using the key combination ```CTRL```+```SHIFT```+```I``` (in chrome).
  - Copy the edited ```SellProDOM.js``` or ```SellProDOM.min.js``` script into the console under the ```console`` tab and hit enter.
+ - Hit ```enter``` to run the script
  - Close out of your console, and navigate to the courses tab in the main navagation bar of the SellPro website.
+
+|Navigating to SellPro|Opening the DOM|Copying the script|
+|---|---|---|
+|![Navigating to SellPro Website](https://github.com/WTPGaming/SellProBot/blob/master/Docs/OnlineSellProLogin.PNG)|![Opening SellPro DOM](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProDOM.PNG)|![Copying the SellProBot Script](https://github.com/WTPGaming/SellProBot/blob/master/Docs/OnlineSellProPaste.PNG)|
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
