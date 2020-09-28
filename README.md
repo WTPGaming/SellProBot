@@ -80,7 +80,7 @@ Usage of the SellProBot is done completely in the DOM or console or your browser
 
  - Navigate to the [SellPro](online.sellpro.net) website, and login using your credentials.
  - Open the DOM of your browser by using the key combination ```CTRL```+```SHIFT```+```I``` (in chrome).
- - Copy the edited ```SellProDOM.js``` or ```SellProDOM.min.js``` script into the console under the ```console`` tab and hit enter.
+ - Copy the edited ```SellProDOM.js``` or ```SellProDOM.min.js``` script into the console under the ```console``` tab and hit enter.
  - Hit ```enter``` to run the script
  - Close out of your console, and navigate to the courses tab in the main navagation bar of the SellPro website.
 
