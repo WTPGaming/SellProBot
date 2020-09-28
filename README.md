@@ -34,6 +34,14 @@ You can find the version of node for you on the [Node.js Download Page](https://
 
 Navigate to ```./SellProSorter```
 
+#### Gathering the input JSON
+
+|Open Your Browsers DOM|Navigate To The Network Tab|Click On The Preview Tab|Find the "messages" with the correct JSON|Navigate to the response tab and copy|
+|---|---|---|---|---|
+|![SellProDOM](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProDOM.PNG)|![SellProDOM-Networking](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProDOMNetwork.PNG)|![SellProDOM](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProDOMPreview.PNG)|![SellProDOM](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProDOMMessage.PNG)|![SellProDOM](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProDOMResponse.PNG)|
+
+#### Creating the output JSON
+
 ```batch
 Node index.js
 ```
