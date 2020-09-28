@@ -16,13 +16,13 @@ Plus its kinda funny because you'll almost be guaranteed to be the highest on le
 
  - Navigate to the [SellProBot](https://github.com/WTPGaming/SellProBot) repository on Github.
 
-![Image of the SellProBot Github Page](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithub.PNG)
+
 
  - Clone the repository by clicking on Code, and then by clicking on [Download Zip](https://github.com/WTPGaming/SellProBot/archive/master.zip).
 
-|Click Code|Click Download Zip|Wait For Your File To Download|
-|---|---|---|
-|![Image of the SellProBot Github Page Clicking Code](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubCode.PNG)|![Image of the SellProBot Github Page Hovering On Download Zip](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubDownloadZip.PNG)|![Image of the SellProBot Github Page With Downloaded Zip](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubDownloadedZip.PNG)|
+|Navigating to github|Clicking Code|Clicking Download Zip|Waiting For File Download|
+|---|---|---|---|
+|![Image of the SellProBot Github Page](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithub.PNG)|![Image of the SellProBot Github Page Clicking Code](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubCode.PNG)|![Image of the SellProBot Github Page Hovering On Download Zip](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubDownloadZip.PNG)|![Image of the SellProBot Github Page With Downloaded Zip](https://github.com/WTPGaming/SellProBot/blob/master/Docs/SellProBotGithubDownloadedZip.PNG)|
 
 #### Using Git
 
